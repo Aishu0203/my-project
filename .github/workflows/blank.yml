@@ -7,6 +7,9 @@ on:
 jobs:
   test:
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        os: [ubuntu-latest,windows-Latest,macos-Latest]
 
     steps:
     - name: Checkout repository
