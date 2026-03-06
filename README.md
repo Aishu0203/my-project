@@ -26,7 +26,7 @@ my-project/
 
 Clone the repository:
 
-git clone https://github.com/your-username/my-project.git
+git clone https://github.com/aishu0203/my-project.git
 
 Navigate to the project folder:
 
